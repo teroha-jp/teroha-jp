@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a Ph.D. student of Hokkaido University, Japan. I am interested in computer vision and deep learning.
+I am a Ph.D. student of Hokkaido University, Japan. 
+
+I am interested in computer vision and deep learning. Love Python and jax.
 
 <!--
 **teroha-jp/teroha-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
