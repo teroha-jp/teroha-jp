@@ -2,8 +2,11 @@
 
 I am a Ph.D. student of Hokkaido University, Japan. 
 
-I am interested in computer vision and deep learning. Love Python and jax.
-Icon is borrowed from [BOOTH](https://booth.pm/ja/items/4954542?BOOTH-APP-CLIENT-VERSION=).
+I am interested in computer vision and deep learning.  
+Love TATARA Kogasa, Python, and JAX.
+
+#### Acknowledgement
+Borrowed icon from [here](https://booth.pm/ja/items/4954542?BOOTH-APP-CLIENT-VERSION=).
 
 <!--
 **teroha-jp/teroha-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
